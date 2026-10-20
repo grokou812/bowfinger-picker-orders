@@ -1,0 +1,673 @@
+{
+ "orders": [
+  {
+   "invoice": "SS-561543951",
+   "customer": "Reginald Atkins",
+   "date": "10/15/2026",
+   "added": "2026-10-15T09:54:31",
+   "source": "Invoice_SS561543951_from_BOWFINGER_ARCHERY.pdf",
+   "items": [
+    {
+     "part": "35AM",
+     "desc": "Amber filter kit for 2020 35mm scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95"
+   ]
+  },
+  {
+   "invoice": "SS-561543952",
+   "customer": "reginald atkins",
+   "date": "10/15/2026",
+   "added": "2026-10-15T12:22:54",
+   "source": "Invoice_SS561543952_from_BOWFINGER_ARCHERY.pdf",
+   "items": [
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$36.99",
+    "Payment  -$147.96",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543953",
+   "customer": "SOCIAL CIRCLE ACE",
+   "date": "10/15/2026",
+   "added": "2026-10-15T12:23:24",
+   "source": "Invoice_SS561543953_from_BOWFINGER_ARCHERY.pdf",
+   "items": [
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
+  },
+  {
+   "invoice": "SS-561543950",
+   "customer": "ROBERTO CAROSATI",
+   "date": "10/14/2026",
+   "added": "2026-10-15T14:29:58",
+   "source": "SS-561543950.pdf",
+   "items": [
+    {
+     "part": "3029",
+     "desc": "30mm .029 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4279",
+     "desc": "1 oz tungsten weight",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "SBAX49",
+     "desc": ".490 scope barrel",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4280",
+     "desc": "Triad mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4266",
+     "desc": "Bar lock",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6020",
+     "desc": "Sight level",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6015",
+     "desc": "String level",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4612",
+     "desc": "Mod King SD 12\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4630",
+     "desc": "Mod King SD 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "10.  HAT 7  MEDIA ROOM CHARCOAL/BLACK PATCH TRUCKER  1  $1.00  $1.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543949",
+   "customer": "Irene Franchini",
+   "date": "10/14/2026",
+   "added": "2026-10-17T15:37:20",
+   "source": "SS-561543949-v2.pdf",
+   "items": [
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "6060BLK",
+     "desc": "Black sight tape cover",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 3,
+     "check": false
+    }
+   ],
+   "unmatched": []
+  },
+  {
+   "invoice": "SS-561543954",
+   "customer": "MATT EDDIE",
+   "date": "10/19/2026",
+   "added": "2026-10-19T13:41:57",
+   "source": "SS-561543954-v3.pdf",
+   "items": [
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 15,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "4714",
+     "desc": "14 inch XL stabilizer",
+     "qty": 6,
+     "check": false
+    }
+   ],
+   "unmatched": []
+  },
+  {
+   "invoice": "SS-561543955",
+   "customer": "Lily Stalnaker",
+   "date": "10/19/2026",
+   "added": "2026-10-19T14:43:39",
+   "source": "SS-561543955-v3.pdf",
+   "items": [
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4297",
+     "desc": "Barrel nuts",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$184.85",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543956",
+   "customer": "Kirt Tanner",
+   "date": "10/19/2026",
+   "added": "2026-10-19T15:24:15",
+   "source": "SS-561543956-v2.pdf",
+   "items": [
+    {
+     "part": "6200RH",
+     "desc": "Quiver spacer, right-hand",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$58.90",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543957",
+   "customer": "KYLE DOUGLAS",
+   "date": "10/19/2026",
+   "added": "2026-10-19T15:27:27",
+   "source": "SS-561543957-v3.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4267",
+     "desc": "Rear V-bar mount",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
+  },
+  {
+   "invoice": "SS-561543959",
+   "customer": "Robert Timms",
+   "date": "10/20/2026",
+   "added": "2026-10-20T10:44:35",
+   "source": "SS-561543959.pdf",
+   "items": [
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $55.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543958",
+   "customer": "The Archer",
+   "date": "10/19/2026",
+   "added": "2026-10-20T10:59:48",
+   "source": "SS-561543958.pdf",
+   "items": [
+    {
+     "part": "3010",
+     "desc": "30mm .010 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH30MM5X",
+     "desc": "5X 30MM (",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543960",
+   "customer": "Stephen Stoddard",
+   "date": "10/20/2026",
+   "added": "2026-10-20T11:01:39",
+   "source": "SS-561543960.pdf",
+   "items": [
+    {
+     "part": "4266",
+     "desc": "Bar lock",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6030",
+     "desc": "Clamp knob",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$46.80",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543961",
+   "customer": "Andrew Saine",
+   "date": "10/20/2026",
+   "added": "2026-10-20T11:04:18",
+   "source": "SS-561543961.pdf",
+   "items": [
+    {
+     "part": "6201LH",
+     "desc": "Quiver spacer, left-hand",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$58.90",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543962",
+   "customer": "Farron & Joey",
+   "date": "10/20/2026",
+   "added": "2026-10-20T12:21:10",
+   "source": "SS-561543962.pdf",
+   "items": [
+    {
+     "part": "7003R",
+     "desc": "Right-hand H1 sight with scope",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543946",
+   "customer": "Julien Thieffine",
+   "date": "10/13/2026",
+   "added": "2026-10-20T15:05:05",
+   "source": "SS561543946-v6.pdf",
+   "items": [
+    {
+     "part": "35KITR",
+     "desc": "2020 35mm scope, right-hand",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "RR35",
+     "desc": "Reducer ring for 35mm scope",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "3029",
+     "desc": "30mm .029 pin",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "5035 BLACK",
+     "desc": "35mm scope caps and rings, Black",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5135 GREEN",
+     "desc": "35mm peep insert, Green",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5135 WHITE",
+     "desc": "35mm peep insert, White",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "5035 WHITE",
+     "desc": "35mm scope caps and rings, White",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "365GH35MM6X",
+     "desc": "6X 35mm XFocus lens for 20/20 scope",
+     "qty": 3,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$26.00",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543964",
+   "customer": "Stefan Hansson",
+   "date": "10/20/2026",
+   "added": "2026-10-20T16:35:17",
+   "source": "SS-561543964.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "35KITL",
+     "desc": "2020 35mm scope, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "RR35",
+     "desc": "Reducer ring for 35mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "35AXIS",
+     "desc": "Third axis tool for 35mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3029",
+     "desc": "30mm .029 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITL",
+     "desc": "2020 30mm scope kit, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "30AXIS",
+     "desc": "Third axis tool for 30mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5035 BLACK",
+     "desc": "35mm scope caps and rings, Black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5135 ORANGE",
+     "desc": "35mm peep insert, Orange",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "95R LEVEL",
+     "desc": "Level for 35 and 40mm scopes",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "8R LEVEL",
+     "desc": "Level for 30mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4296",
+     "desc": "Set screws",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "6030",
+     "desc": "Clamp knob",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6020",
+     "desc": "Sight level",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6015",
+     "desc": "String level",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5030 BLUE",
+     "desc": "30mm scope caps and rings, Blue",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6060BLK",
+     "desc": "Black sight tape cover",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4295",
+     "desc": "Aluminum dome end cap",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4273",
+     "desc": "3 oz stack weight, black",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4272",
+     "desc": "10 oz stack weight, black",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "5130 PURPLE",
+     "desc": "30mm peep insert, Purple",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4615",
+     "desc": "Mod King SD 15\" stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4630",
+     "desc": "Mod King SD 30\" stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002-L-BLACK",
+     "desc": "Left-hand V2 sight",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "365GH30MM6X",
+     "desc": "6X 30MM (",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH35MM6X",
+     "desc": "6X 35mm XFocus lens for 20/20 scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  Other Product  3\" SET SCREW(Complimentary  2  $1.00  $2.00"
+   ]
+  }
+ ],
+ "updated": "2026-10-20T16:35:17"
+}
