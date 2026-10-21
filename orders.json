@@ -667,7 +667,28 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561543966",
+   "customer": "Allen Jackson",
+   "date": "10/21/2026",
+   "added": "2026-10-21T10:24:26",
+   "source": "SS-561543966.pdf",
+   "items": [
+    {
+     "part": "4261",
+     "desc": "Front mount, 0 degree",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$23.19",
+    "Shipping  $9.00",
+    "Payment  -$101.76",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-21T09:52:58"
+ "updated": "2026-10-21T10:24:26"
 }
