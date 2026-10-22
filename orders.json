@@ -364,24 +364,6 @@
    ]
   },
   {
-   "invoice": "SS-561543962",
-   "customer": "Farron & Joey",
-   "date": "10/20/2026",
-   "added": "2026-10-20T12:21:10",
-   "source": "SS-561543962.pdf",
-   "items": [
-    {
-     "part": "7003R",
-     "desc": "Right-hand H1 sight with scope",
-     "qty": 2,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping  $15.00"
-   ]
-  },
-  {
    "invoice": "SS-561543946",
    "customer": "Julien Thieffine",
    "date": "10/13/2026",
@@ -737,7 +719,25 @@
    "unmatched": [
     "2.  Other Product  3\" SET SCREW(Complimentary  2  $1.00  $2.00"
    ]
+  },
+  {
+   "invoice": "SS-561543962",
+   "customer": "Farron & Joey",
+   "date": "10/20/2026",
+   "added": "2026-10-22T12:36:28",
+   "source": "SS-561543962-v2.pdf",
+   "items": [
+    {
+     "part": "7003R",
+     "desc": "Right-hand H1 sight with scope",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-10-22T09:12:56"
+ "updated": "2026-10-22T12:36:28"
 }
