@@ -709,7 +709,35 @@
     "Payment  -$161.96",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360297",
+   "customer": "KINSEY'S",
+   "date": "09/22/2026",
+   "added": "2026-10-22T09:12:52",
+   "source": "1360297.pdf",
+   "items": [
+    {
+     "part": "4401BL",
+     "desc": "8 inch Ultimate stabilizer",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-10-22T09:12:48"
+ "updated": "2026-10-22T09:12:52"
 }
