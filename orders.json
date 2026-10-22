@@ -529,11 +529,60 @@
    "unmatched": []
   },
   {
+   "invoice": "SS-561543962",
+   "customer": "Farron & Joey",
+   "date": "10/20/2026",
+   "added": "2026-10-22T12:36:28",
+   "source": "SS-561543962-v2.pdf",
+   "items": [
+    {
+     "part": "7003R",
+     "desc": "Right-hand H1 sight with scope",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543970",
+   "customer": "Josh Filler",
+   "date": "10/22/2026",
+   "added": "2026-10-22T12:36:31",
+   "source": "SS-561543970.pdf",
+   "items": [
+    {
+     "part": "35KITR",
+     "desc": "2020 35mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3510",
+     "desc": ".010 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$211.85",
+    "Balance due  $0.00"
+   ]
+  },
+  {
    "invoice": "SS-561543964",
    "customer": "Stefan Hansson",
    "date": "10/20/2026",
-   "added": "2026-10-22T09:12:56",
-   "source": "SS-561543964-v2.pdf",
+   "added": "2026-10-22T12:38:14",
+   "source": "SS-561543964-v3.pdf",
    "items": [
     {
      "part": "4201",
@@ -676,7 +725,7 @@
     {
      "part": "4272",
      "desc": "10 oz stack weight, black",
-     "qty": 4,
+     "qty": 10,
      "check": false
     },
     {
@@ -719,56 +768,7 @@
    "unmatched": [
     "2.  Other Product  3\" SET SCREW(Complimentary  2  $1.00  $2.00"
    ]
-  },
-  {
-   "invoice": "SS-561543962",
-   "customer": "Farron & Joey",
-   "date": "10/20/2026",
-   "added": "2026-10-22T12:36:28",
-   "source": "SS-561543962-v2.pdf",
-   "items": [
-    {
-     "part": "7003R",
-     "desc": "Right-hand H1 sight with scope",
-     "qty": 2,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping  $15.00"
-   ]
-  },
-  {
-   "invoice": "SS-561543970",
-   "customer": "Josh Filler",
-   "date": "10/22/2026",
-   "added": "2026-10-22T12:36:31",
-   "source": "SS-561543970.pdf",
-   "items": [
-    {
-     "part": "35KITR",
-     "desc": "2020 35mm scope, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "3510",
-     "desc": ".010 pin for 2020 scope",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Payment  -$211.85",
-    "Balance due  $0.00"
-   ]
   }
  ],
- "updated": "2026-10-22T12:36:31"
+ "updated": "2026-10-22T12:38:14"
 }
