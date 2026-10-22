@@ -601,8 +601,8 @@
    "invoice": "SS-561543964",
    "customer": "Stefan Hansson",
    "date": "10/20/2026",
-   "added": "2026-10-22T14:55:54",
-   "source": "SS-561543964-v5.pdf",
+   "added": "2026-10-22T15:51:29",
+   "source": "SS-561543964-v6.pdf",
    "items": [
     {
      "part": "4201",
@@ -739,7 +739,7 @@
     {
      "part": "4273",
      "desc": "3 oz stack weight, black",
-     "qty": 3,
+     "qty": 2,
      "check": false
     },
     {
@@ -790,5 +790,5 @@
    ]
   }
  ],
- "updated": "2026-10-22T14:55:54"
+ "updated": "2026-10-22T15:51:29"
 }
