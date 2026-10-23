@@ -598,11 +598,62 @@
    ]
   },
   {
+   "invoice": "SS-561543972",
+   "customer": "Clayton Presley",
+   "date": "10/23/2026",
+   "added": "2026-10-23T14:15:37",
+   "source": "SS-561543972.pdf",
+   "items": [
+    {
+     "part": "5040 BLACK",
+     "desc": "40mm scope caps and rings, Black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5140 WHITE",
+     "desc": "40mm peep insert, White",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$51.85",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543973",
+   "customer": "Michael Rea",
+   "date": "10/23/2026",
+   "added": "2026-10-23T14:17:53",
+   "source": "SS-561543973.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4263",
+     "desc": "1/4-20 bolt through",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$273.80",
+    "Balance due  $0.00"
+   ]
+  },
+  {
    "invoice": "SS-561543964",
    "customer": "Stefan Hansson",
    "date": "10/20/2026",
-   "added": "2026-10-22T15:51:29",
-   "source": "SS-561543964-v6.pdf",
+   "added": "2026-10-23T14:41:50",
+   "source": "SS-561543964-v7.pdf",
    "items": [
     {
      "part": "4201",
@@ -786,60 +837,12 @@
     }
    ],
    "unmatched": [
-    "2.  Other Product  3\" SET SCREW(Complimentary  2  $1.00  $2.00"
-   ]
-  },
-  {
-   "invoice": "SS-561543972",
-   "customer": "Clayton Presley",
-   "date": "10/23/2026",
-   "added": "2026-10-23T14:15:37",
-   "source": "SS-561543972.pdf",
-   "items": [
-    {
-     "part": "5040 BLACK",
-     "desc": "40mm scope caps and rings, Black",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "5140 WHITE",
-     "desc": "40mm peep insert, White",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping  $13.95",
-    "Payment  -$51.85",
-    "Balance due  $0.00"
-   ]
-  },
-  {
-   "invoice": "SS-561543973",
-   "customer": "Michael Rea",
-   "date": "10/23/2026",
-   "added": "2026-10-23T14:17:53",
-   "source": "SS-561543973.pdf",
-   "items": [
-    {
-     "part": "4201",
-     "desc": "Ultimate quick disconnect, 0 degree",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4263",
-     "desc": "1/4-20 bolt through",
-     "qty": 2,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Payment  -$273.80",
-    "Balance due  $0.00"
+    "2.  Other Product  3\" SET SCREW(Complimentary  2  $1.00  $2.00",
+    "Shipping  $240.00",
+    "Payment  -$56.00",
+    "Balance due  $240.00"
    ]
   }
  ],
- "updated": "2026-10-23T14:17:53"
+ "updated": "2026-10-23T14:41:50"
 }
