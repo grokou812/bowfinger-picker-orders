@@ -924,7 +924,27 @@
    "unmatched": [
     "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95"
    ]
+  },
+  {
+   "invoice": "SS-561543982",
+   "customer": "Erik Luca",
+   "date": "10/27/2026",
+   "added": "2026-10-27T17:09:39",
+   "source": "SS-561543982.pdf",
+   "items": [
+    {
+     "part": "4256",
+     "desc": "Barkbuster side mount with quick disconnect",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95",
+    "Payment  -$70.08",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-27T17:00:48"
+ "updated": "2026-10-27T17:09:39"
 }
