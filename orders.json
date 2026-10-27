@@ -1015,7 +1015,27 @@
     "Payment  -$24.90",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561543980",
+   "customer": "Ken Glidden",
+   "date": "10/27/2026",
+   "added": "2026-10-27T17:20:00",
+   "source": "SS-561543980.pdf",
+   "items": [
+    {
+     "part": "6200RH",
+     "desc": "Quiver spacer, right-hand",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95",
+    "Payment  -$58.90",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-27T17:18:20"
+ "updated": "2026-10-27T17:20:00"
 }
