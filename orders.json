@@ -888,26 +888,6 @@
    ]
   },
   {
-   "invoice": "SS-561543975",
-   "customer": "timothy moore",
-   "date": "10/27/2026",
-   "added": "2026-10-27T11:50:19",
-   "source": "SS-561543975.pdf",
-   "items": [
-    {
-     "part": "4297",
-     "desc": "Barrel nuts",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95",
-    "Payment  -$24.90",
-    "Balance due  $0.00"
-   ]
-  },
-  {
    "invoice": "SS-561543976",
    "customer": "Daryl Hirt",
    "date": "10/27/2026",
@@ -964,7 +944,27 @@
     "Payment  -$24.90",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561543975",
+   "customer": "timothy moore",
+   "date": "10/27/2026",
+   "added": "2026-10-27T17:14:26",
+   "source": "SS-561543975-v2.pdf",
+   "items": [
+    {
+     "part": "4297",
+     "desc": "Barrel nuts",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95",
+    "Payment  -$24.90",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-27T17:12:52"
+ "updated": "2026-10-27T17:14:26"
 }
