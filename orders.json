@@ -1273,7 +1273,33 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "1360326",
+   "customer": "BEAR CREEK ARCHERY",
+   "date": "10/28/2026",
+   "added": "2026-10-28T12:28:36",
+   "source": "1360326.pdf",
+   "items": [
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "7003R",
+     "desc": "Right-hand H1 sight with scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $17.00",
+    "Payment  -$692.97",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-28T11:33:44"
+ "updated": "2026-10-28T12:28:36"
 }
