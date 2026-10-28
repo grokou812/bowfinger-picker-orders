@@ -1215,7 +1215,65 @@
    "unmatched": [
     "3.  40CT4X  2.3.18  4X CLEAR TARGETS DOC'S CHOICE  1  $99.99  $99.99"
    ]
+  },
+  {
+   "invoice": "1360325",
+   "customer": "BRIAN CRONIN",
+   "date": "10/28/2026",
+   "added": "2026-10-28T11:33:44",
+   "source": "1360325.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4266",
+     "desc": "Bar lock",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4273",
+     "desc": "3 oz stack weight, black",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-10-28T11:33:29"
+ "updated": "2026-10-28T11:33:44"
 }
