@@ -1154,7 +1154,7 @@
    "invoice": "1360324",
    "customer": "Sarasota Archery Academy",
    "date": "10/28/2026",
-   "added": "2026-10-28T11:32:24",
+   "added": "2026-10-28T11:33:29",
    "source": "1360324.pdf",
    "items": [
     {
@@ -1194,6 +1194,18 @@
      "check": false
     },
     {
+     "part": "4364",
+     "desc": "FAX 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4367",
+     "desc": "FAX 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
      "part": "6002R-BLACK",
      "desc": "Right-hand One sight V2",
      "qty": 1,
@@ -1205,5 +1217,5 @@
    ]
   }
  ],
- "updated": "2026-10-28T11:32:24"
+ "updated": "2026-10-28T11:33:29"
 }
