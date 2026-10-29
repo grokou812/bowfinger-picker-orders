@@ -1145,24 +1145,6 @@
    ]
   },
   {
-   "invoice": "SS-561543983",
-   "customer": "adam kittel",
-   "date": "10/28/2026",
-   "added": "2026-10-28T13:47:31",
-   "source": "SS-561543983-v2.pdf",
-   "items": [
-    {
-     "part": "SBAX49",
-     "desc": ".490 scope barrel",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95"
-   ]
-  },
-  {
    "invoice": "1360323",
    "customer": "MUSIC CITY ARCHERY",
    "date": "10/28/2026",
@@ -1323,7 +1305,25 @@
    "unmatched": [
     "3.  40CT4X  2.3.18  4X CLEAR TARGETS DOC'S CHOICE  1  $99.99  $99.99"
    ]
+  },
+  {
+   "invoice": "SS-561543983",
+   "customer": "adam kittel",
+   "date": "10/28/2026",
+   "added": "2026-10-28T22:07:05",
+   "source": "SS-561543983-v3.pdf",
+   "items": [
+    {
+     "part": "SBAX49",
+     "desc": ".490 scope barrel",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95"
+   ]
   }
  ],
- "updated": "2026-10-28T22:06:52"
+ "updated": "2026-10-28T22:07:05"
 }
