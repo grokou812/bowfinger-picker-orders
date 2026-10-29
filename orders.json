@@ -1323,7 +1323,33 @@
    "unmatched": [
     "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95"
    ]
+  },
+  {
+   "invoice": "SS-561543985",
+   "customer": "Ben Klappert",
+   "date": "10/29/2026",
+   "added": "2026-10-29T11:46:05",
+   "source": "SS-561543985.pdf",
+   "items": [
+    {
+     "part": "4615",
+     "desc": "Mod King SD 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4630",
+     "desc": "Mod King SD 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $87.41",
+    "Payment  -$465.31",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-28T22:07:05"
+ "updated": "2026-10-29T11:46:05"
 }
