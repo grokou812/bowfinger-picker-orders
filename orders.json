@@ -1241,72 +1241,6 @@
    ]
   },
   {
-   "invoice": "1360324",
-   "customer": "Sarasota Archery Academy",
-   "date": "10/28/2026",
-   "added": "2026-10-28T22:06:52",
-   "source": "1360324-v2.pdf",
-   "items": [
-    {
-     "part": "4201",
-     "desc": "Ultimate quick disconnect, 0 degree",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "40KITR",
-     "desc": "40mm scope, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4029",
-     "desc": "40mm .029 pin",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4280",
-     "desc": "Triad mount",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4273",
-     "desc": "3 oz stack weight, black",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4364",
-     "desc": "FAX 15\" stabilizer",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4367",
-     "desc": "FAX 30\" stabilizer",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "6002R-BLACK",
-     "desc": "Right-hand One sight V2",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "3.  40CT4X  2.3.18  4X CLEAR TARGETS DOC'S CHOICE  1  $99.99  $99.99"
-   ]
-  },
-  {
    "invoice": "SS-561543983",
    "customer": "adam kittel",
    "date": "10/28/2026",
@@ -1380,7 +1314,76 @@
     "Discount 20%  -$141.77",
     "Shipping  $22.00"
    ]
+  },
+  {
+   "invoice": "1360324",
+   "customer": "Sarasota Archery Academy",
+   "date": "10/28/2026",
+   "added": "2026-10-29T13:15:13",
+   "source": "1360324-v3.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4029",
+     "desc": "40mm .029 pin",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4280",
+     "desc": "Triad mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4273",
+     "desc": "3 oz stack weight, black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4364",
+     "desc": "FAX 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4367",
+     "desc": "FAX 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "3.  40CT4X  2.3.18  4X CLEAR TARGETS DOC'S CHOICE  1  $99.99  $99.99",
+    "Shipping  $25.00",
+    "Payment  -$868.85",
+    "View and pay  Balance due  $25.00"
+   ]
   }
  ],
- "updated": "2026-10-29T12:16:59"
+ "updated": "2026-10-29T13:15:13"
 }
