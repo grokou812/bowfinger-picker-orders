@@ -1434,7 +1434,27 @@
    "unmatched": [
     "2.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95"
    ]
+  },
+  {
+   "invoice": "SS-561543987",
+   "customer": "eryc espinoza",
+   "date": "10/29/2026",
+   "added": "2026-10-30T10:32:22",
+   "source": "SS-561543987.pdf",
+   "items": [
+    {
+     "part": "4364",
+     "desc": "FAX 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$58.95",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-10-30T09:32:55"
+ "updated": "2026-10-30T10:32:22"
 }
