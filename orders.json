@@ -1145,102 +1145,6 @@
    ]
   },
   {
-   "invoice": "1360323",
-   "customer": "MUSIC CITY ARCHERY",
-   "date": "10/28/2026",
-   "added": "2026-10-28T14:48:39",
-   "source": "1360323-v2.pdf",
-   "items": [
-    {
-     "part": "4201",
-     "desc": "Ultimate quick disconnect, 0 degree",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4202",
-     "desc": "Ultimate quick disconnect, 10 degree",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4400BL",
-     "desc": "6 inch Ultimate stabilizer",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4260",
-     "desc": "Front V-bar mount",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4261",
-     "desc": "Front mount, 0 degree",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4262",
-     "desc": "Rear mount",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4267",
-     "desc": "Rear V-bar mount",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "6200RH",
-     "desc": "Quiver spacer, right-hand",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4708",
-     "desc": "8 inch XL stabilizer",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4256",
-     "desc": "Barkbuster side mount with quick disconnect",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "4274",
-     "desc": "3 oz stack weight, silver",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4273",
-     "desc": "3 oz stack weight, black",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4270",
-     "desc": "10 oz stack weight, silver",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4272",
-     "desc": "10 oz stack weight, black",
-     "qty": 3,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping  $25.00"
-   ]
-  },
-  {
    "invoice": "SS-561543983",
    "customer": "adam kittel",
    "date": "10/28/2026",
@@ -1434,7 +1338,103 @@
     "Payment  -$424.80",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360323",
+   "customer": "MUSIC CITY ARCHERY",
+   "date": "10/28/2026",
+   "added": "2026-10-30T09:17:58",
+   "source": "1360323-v3.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4260",
+     "desc": "Front V-bar mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4261",
+     "desc": "Front mount, 0 degree",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4267",
+     "desc": "Rear V-bar mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6200RH",
+     "desc": "Quiver spacer, right-hand",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4256",
+     "desc": "Barkbuster side mount with quick disconnect",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4274",
+     "desc": "3 oz stack weight, silver",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4273",
+     "desc": "3 oz stack weight, black",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4270",
+     "desc": "10 oz stack weight, silver",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4272",
+     "desc": "10 oz stack weight, black",
+     "qty": 3,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $25.00"
+   ]
   }
  ],
- "updated": "2026-10-29T13:34:51"
+ "updated": "2026-10-30T09:17:58"
 }
