@@ -437,28 +437,6 @@
    ]
   },
   {
-   "invoice": "SS-561543957",
-   "customer": "KYLE DOUGLAS",
-   "date": "10/19/2026",
-   "added": "2026-10-21T09:52:58",
-   "source": "SS-561543957-v4.pdf",
-   "items": [
-    {
-     "part": "4201",
-     "desc": "Ultimate quick disconnect, 0 degree",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4267",
-     "desc": "Rear V-bar mount",
-     "qty": 2,
-     "check": false
-    }
-   ],
-   "unmatched": []
-  },
-  {
    "invoice": "SS-561543966",
    "customer": "Allen Jackson",
    "date": "10/21/2026",
@@ -1454,7 +1432,29 @@
     "Payment  -$58.95",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561543957",
+   "customer": "KYLE DOUGLAS",
+   "date": "10/19/2026",
+   "added": "2026-10-31T09:24:22",
+   "source": "SS-561543957-v5.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4267",
+     "desc": "Rear V-bar mount",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-10-30T10:32:22"
+ "updated": "2026-10-31T09:24:22"
 }
