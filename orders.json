@@ -1506,7 +1506,133 @@
     "10.  40CT6X  2.3.18  6X CLEAR TARGETS DOC'S CHOICE  1  $62.50  $62.50",
     "Shipping  $55.00"
    ]
+  },
+  {
+   "invoice": "SS-561543988",
+   "customer": "charles long",
+   "date": "11/02/2026",
+   "added": "2026-11-02T10:12:30",
+   "source": "SS-561543988.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4296",
+     "desc": "Set screws",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4272",
+     "desc": "10 oz stack weight, black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4363",
+     "desc": "FAX 12\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4364",
+     "desc": "FAX 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$290.80",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543990",
+   "customer": "sabrina smith",
+   "date": "11/02/2026",
+   "added": "2026-11-02T10:12:30",
+   "source": "SS-561543990.pdf",
+   "items": [
+    {
+     "part": "4297",
+     "desc": "Barrel nuts",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$25.88",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543991",
+   "customer": "cory guingrich",
+   "date": "11/02/2026",
+   "added": "2026-11-02T10:12:30",
+   "source": "SS-561543991.pdf",
+   "items": [
+    {
+     "part": "35KITL",
+     "desc": "2020 35mm scope, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH35MM55X",
+     "desc": "35MM (",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Payment  -$351.80",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561543992",
+   "customer": "dakota mcdaniel",
+   "date": "11/02/2026",
+   "added": "2026-11-02T10:12:30",
+   "source": "SS-561543992.pdf",
+   "items": [
+    {
+     "part": "4297",
+     "desc": "Barrel nuts",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $13.95",
+    "Payment  -$24.90",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-11-01T08:12:01"
+ "updated": "2026-11-02T10:12:30"
 }
