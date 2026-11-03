@@ -1600,7 +1600,43 @@
     "Payment  -$118.97",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360327",
+   "customer": "JIM CATE",
+   "date": "11/03/2026",
+   "added": "2026-11-03T08:39:43",
+   "source": "1360327.pdf",
+   "items": [
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4401BL",
+     "desc": "8 inch Ultimate stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "5.  SHIPPING  SHIPPING CHARGES  1  $12.95  $12.95"
+   ]
   }
  ],
- "updated": "2026-11-03T08:07:24"
+ "updated": "2026-11-03T08:39:43"
 }
