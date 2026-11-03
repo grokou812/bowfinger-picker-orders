@@ -1456,58 +1456,6 @@
    "unmatched": []
   },
   {
-   "invoice": "SS-561543939",
-   "customer": "Jorge Aparicio",
-   "date": "10/09/2026",
-   "added": "2026-11-01T08:12:01",
-   "source": "SS-561543939.pdf",
-   "items": [
-    {
-     "part": "3015",
-     "desc": "30mm .015 pin",
-     "qty": 1,
-     "check": true
-    },
-    {
-     "part": "30KITR",
-     "desc": "2020 30mm scope kit, right-hand",
-     "qty": 1,
-     "check": true
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 2,
-     "check": true
-    },
-    {
-     "part": "40KITR",
-     "desc": "40mm scope, right-hand",
-     "qty": 1,
-     "check": true
-    },
-    {
-     "part": "4015",
-     "desc": "40mm .015 pin",
-     "qty": 1,
-     "check": true
-    },
-    {
-     "part": "6002R-BLACK",
-     "desc": "Right-hand One sight V2",
-     "qty": 1,
-     "check": true
-    }
-   ],
-   "unmatched": [
-    "1.  HAT 3  MEDIA ROOM HAT - OLIVE/BLACK - PATCH  1  $0.00",
-    "2.  SHIRT 5  MEDIA ROOM T-SHIRT -green - MEDIUM  1  $0.00",
-    "9.  30CT6X  2.4.7  6X CLEAR TARGETS DOC'S CHOICE  1  $62.50  $62.50",
-    "10.  40CT6X  2.3.18  6X CLEAR TARGETS DOC'S CHOICE  1  $62.50  $62.50",
-    "Shipping  $55.00"
-   ]
-  },
-  {
    "invoice": "SS-561543988",
    "customer": "charles long",
    "date": "11/02/2026",
@@ -1654,5 +1602,5 @@
    ]
   }
  ],
- "updated": "2026-11-02T10:12:58"
+ "updated": "2026-11-03T08:07:24"
 }
