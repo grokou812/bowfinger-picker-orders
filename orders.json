@@ -1654,7 +1654,89 @@
    "unmatched": [
     "Shipping  $15.00"
    ]
+  },
+  {
+   "invoice": "1360329",
+   "customer": "JVD ARCHERY",
+   "date": "11/05/2026",
+   "added": "2026-11-05T11:18:09",
+   "source": "1360329.pdf",
+   "items": [
+    {
+     "part": "35KITR",
+     "desc": "2020 35mm scope, right-hand",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "RR35",
+     "desc": "Reducer ring for 35mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "35AXIS",
+     "desc": "Third axis tool for 35mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3019",
+     "desc": "30mm .019 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40KITL",
+     "desc": "40mm scope, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4272",
+     "desc": "10 oz stack weight, black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH30MM6X",
+     "desc": "6X 30MM (",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH35MM6X",
+     "desc": "6X 35mm XFocus lens for 20/20 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH40MM6X",
+     "desc": "6X 40MM (",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-05T08:43:34"
+ "updated": "2026-11-05T11:18:09"
 }
