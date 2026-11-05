@@ -1636,7 +1636,25 @@
    "unmatched": [
     "5.  SHIPPING  SHIPPING CHARGES  1  $12.95  $12.95"
    ]
+  },
+  {
+   "invoice": "1360328",
+   "customer": "RANDY SMITH",
+   "date": "11/05/2026",
+   "added": "2026-11-05T08:43:34",
+   "source": "1360328.pdf",
+   "items": [
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 6,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-11-03T08:39:43"
+ "updated": "2026-11-05T08:43:34"
 }
