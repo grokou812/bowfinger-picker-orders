@@ -1736,7 +1736,28 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561543993",
+   "customer": "Michael Wyatt",
+   "date": "11/06/2026",
+   "added": "2026-11-06T13:23:15",
+   "source": "SS-561543993.pdf",
+   "items": [
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "1.  FLEECE  BOWFINGER SHOOTER FLEECE JACKET XL  1  $55.00  $55.00",
+    "3.  SHIPPING  SHIPPING CHARGES  1  $13.95  $13.95",
+    "Payment: -$161.58",
+    "Balance due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-05T11:18:09"
+ "updated": "2026-11-06T13:23:15"
 }
