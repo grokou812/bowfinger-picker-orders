@@ -1757,7 +1757,50 @@
     "Payment: -$161.58",
     "Balance due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561543994",
+   "customer": "cory guingrich",
+   "date": "11/06/2026",
+   "added": "2026-11-08T16:44:00",
+   "source": "SS-561543994.pdf",
+   "items": [
+    {
+     "part": "35KITL",
+     "desc": "2020 35mm scope, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH35MM55X",
+     "desc": "35MM (",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Amount Received: $367.75",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-06T13:23:15"
+ "updated": "2026-11-08T16:44:00"
 }
