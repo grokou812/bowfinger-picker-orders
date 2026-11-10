@@ -1833,7 +1833,263 @@
     "Amount Received: $57.04",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "1360335",
+   "customer": "LANCASTER ARCHERY SUPPLY",
+   "date": "11/10/2026",
+   "added": "2026-11-10T10:34:57",
+   "source": "1360335.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 16,
+     "check": false
+    },
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4401BL",
+     "desc": "8 inch Ultimate stabilizer",
+     "qty": 12,
+     "check": false
+    },
+    {
+     "part": "35KITR",
+     "desc": "2020 35mm scope, right-hand",
+     "qty": 12,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "35LS",
+     "desc": "Long shade for 35mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4261",
+     "desc": "Front mount, 0 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 20,
+     "check": false
+    },
+    {
+     "part": "4263",
+     "desc": "1/4-20 bolt through",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "30PR",
+     "desc": "30mm peep ring",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3019",
+     "desc": "30mm .019 pin",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "3015",
+     "desc": "30mm .015 pin",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 12,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 50,
+     "check": false
+    },
+    {
+     "part": "30THKLB",
+     "desc": "30mm thick lens base",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "30AXIS",
+     "desc": "Third axis tool for 30mm scope",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4010",
+     "desc": "40mm .010 pin",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4019",
+     "desc": "40mm .019 pin",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4029",
+     "desc": "40mm .029 pin",
+     "qty": 12,
+     "check": false
+    },
+    {
+     "part": "RR40",
+     "desc": "40mm reducer ring",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "40THKLB",
+     "desc": "40mm thick lens base",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "40AXIS",
+     "desc": "40mm third axis tool",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "40H19",
+     "desc": "H hunting scope",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "5040 SILVER",
+     "desc": "40mm scope caps and rings, Silver",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5035 BLACK",
+     "desc": "35mm scope caps and rings, Black",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5135 PINK",
+     "desc": "35mm peep insert, Pink",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5140 PINK",
+     "desc": "40mm peep insert, Pink",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5130 WHITE",
+     "desc": "30mm peep insert, White",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "5135 WHITE",
+     "desc": "35mm peep insert, White",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "6015",
+     "desc": "String level",
+     "qty": 72,
+     "check": false
+    },
+    {
+     "part": "5035 WHITE",
+     "desc": "35mm scope caps and rings, White",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "5030 WHITE",
+     "desc": "30mm scope caps and rings, White",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4350",
+     "desc": "XCH 10\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4512",
+     "desc": "Mod King 12\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4527",
+     "desc": "Mod King 27\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "7002L",
+     "desc": "Left-hand H1 sight no scope",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 18,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-08T18:11:21"
+ "updated": "2026-11-10T10:34:57"
 }
