@@ -2255,7 +2255,32 @@
     "Payment  -$69.02",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360336",
+   "customer": "Peyton Vrooman",
+   "date": "11/10/2026",
+   "added": "2026-11-10T12:25:42",
+   "source": "1360336.pdf",
+   "items": [
+    {
+     "part": "4265",
+     "desc": "Front mount, 10 degree down",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "95G LEVEL",
+     "desc": "Level for 35 and 40mm scopes",
+     "qty": 1,
+     "check": true
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$23.19",
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-11-10T10:36:17"
+ "updated": "2026-11-10T12:25:42"
 }
