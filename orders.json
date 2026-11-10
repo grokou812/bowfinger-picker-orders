@@ -2299,7 +2299,19 @@
     "Discount 20%  -$105.99",
     "Shipping  $15.00"
    ]
+  },
+  {
+   "invoice": "1360338",
+   "customer": "Janice Durso",
+   "date": "11/10/2026",
+   "added": "2026-11-10T14:33:58",
+   "source": "1360338.pdf",
+   "items": [],
+   "unmatched": [
+    "1.  8-32 SET SCREW / SIGHT  3 sets 8-32 set screws & brass washers  1  $5.00  $5.00",
+    "Shipping  $5.00"
+   ]
   }
  ],
- "updated": "2026-11-10T12:30:38"
+ "updated": "2026-11-10T14:33:58"
 }
