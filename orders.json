@@ -2280,7 +2280,26 @@
     "Discount 20%  -$23.19",
     "Shipping  $15.00"
    ]
+  },
+  {
+   "invoice": "1360337",
+   "customer": "Mackenzie Shull",
+   "date": "11/10/2026",
+   "added": "2026-11-10T12:30:38",
+   "source": "1360337.pdf",
+   "items": [
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$105.99",
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-11-10T12:25:42"
+ "updated": "2026-11-10T12:30:38"
 }
