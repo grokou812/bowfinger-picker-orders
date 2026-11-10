@@ -2089,7 +2089,173 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "1360330",
+   "customer": "Caleb",
+   "date": "11/09/2026",
+   "added": "2026-11-10T10:36:17",
+   "source": "1360330.pdf",
+   "items": [
+    {
+     "part": "SBAX49",
+     "desc": ".490 scope barrel",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00",
+    "Payment  -$422.66",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "1360331",
+   "customer": "NASHVILLE NORTH ARCHERY",
+   "date": "11/08/2026",
+   "added": "2026-11-10T10:36:17",
+   "source": "1360331.pdf",
+   "items": [
+    {
+     "part": "4261",
+     "desc": "Front mount, 0 degree",
+     "qty": 8,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 10,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 5,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "(Retail $115.95 / Dealer $66.10)",
+    "$94.95 / Dealer $54.15)",
+    "(Retail $529.95 / Dealer $331.47)",
+    "Shipping  $16.78",
+    "Payment  -$2,744.43",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "1360332",
+   "customer": "laney h bisbee",
+   "date": "11/09/2026",
+   "added": "2026-11-10T10:36:17",
+   "source": "1360332.pdf",
+   "items": [
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5135 YELLOW",
+     "desc": "35mm peep insert, Yellow",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$12.77",
+    "Shipping  $15.00",
+    "Payment  -$66.08",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "1360333",
+   "customer": "Ryan Byberg",
+   "date": "11/09/2026",
+   "added": "2026-11-10T10:36:17",
+   "source": "1360333.pdf",
+   "items": [
+    {
+     "part": "3010",
+     "desc": "30mm .010 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "SBAX49",
+     "desc": ".490 scope barrel",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5130 PURPLE",
+     "desc": "30mm peep insert, Purple",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH30MM6X",
+     "desc": "6X 30mm XFocus lens for 20/20 scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$76.74",
+    "Shipping  $15.00",
+    "Payment  -$321.96",
+    "Balance due  $0.00"
+   ]
+  },
+  {
+   "invoice": "1360334",
+   "customer": "CHLOE MCELROY",
+   "date": "11/09/2026",
+   "added": "2026-11-10T10:36:17",
+   "source": "1360334.pdf",
+   "items": [
+    {
+     "part": "30HV",
+     "desc": "30mm high-vis filter kit",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$12.59",
+    "Shipping  $14.00",
+    "Payment  -$69.02",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-11-10T10:34:57"
+ "updated": "2026-11-10T10:36:17"
 }
