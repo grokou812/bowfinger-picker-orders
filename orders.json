@@ -2376,7 +2376,33 @@
     "Amount Received: $150.85",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544000",
+   "customer": "Gerald Landis",
+   "date": "11/11/2026",
+   "added": "2026-11-11T12:20:43",
+   "source": "SS-561544000.pdf",
+   "items": [
+    {
+     "part": "95B LEVEL",
+     "desc": "Level for 35 and 40mm scopes",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "95R LEVEL",
+     "desc": "Level for 35 and 40mm scopes",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $25.85",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-11T12:08:31"
+ "updated": "2026-11-11T12:20:43"
 }
