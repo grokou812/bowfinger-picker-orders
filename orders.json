@@ -2454,7 +2454,33 @@
     "Amount Received: $204.85",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544003",
+   "customer": "kyle douglas",
+   "date": "11/12/2026",
+   "added": "2026-11-12T13:43:40",
+   "source": "SS-561544003.pdf",
+   "items": [
+    {
+     "part": "6025BLK",
+     "desc": "Riser clamp bracket with knob",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $15.00",
+    "Payment  -$805.12",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-11-12T11:59:23"
+ "updated": "2026-11-12T13:43:40"
 }
