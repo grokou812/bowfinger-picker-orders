@@ -2480,7 +2480,51 @@
     "Payment  -$805.12",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544004",
+   "customer": "Christian Schulthess",
+   "date": "11/12/2026",
+   "added": "2026-11-12T14:02:47",
+   "source": "SS-561544004.pdf",
+   "items": [
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH40MM33X",
+     "desc": "40MM (",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $103.99",
+    "Amount Received: $985.74",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-12T13:43:40"
+ "updated": "2026-11-12T14:02:47"
 }
