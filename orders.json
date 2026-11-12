@@ -2313,25 +2313,6 @@
    ]
   },
   {
-   "invoice": "1360339",
-   "customer": "JASON FUKUMOTO",
-   "date": "11/11/2026",
-   "added": "2026-11-11T10:41:49",
-   "source": "1360339-v2.pdf",
-   "items": [
-    {
-     "part": "4261",
-     "desc": "Front mount, 0 degree",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "1.  Other Product  REAR RISER MOUNT PIECE  3  $20.00  $60.00",
-    "Shipping  $16.07"
-   ]
-  },
-  {
    "invoice": "SS-561543998",
    "customer": "Paul N Huber",
    "date": "11/11/2026",
@@ -2429,7 +2410,20 @@
     "Payment  -$208.52",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360339",
+   "customer": "JASON FUKUMOTO",
+   "date": "11/11/2026",
+   "added": "2026-11-12T10:14:38",
+   "source": "1360339-v3.pdf",
+   "items": [],
+   "unmatched": [
+    "1.  Other Product  REAR RISER MOUNT PIECE  2  $20.00  $40.00",
+    "2.  Other Product  FRONT SIDE BAR MOUNT PIECE (piece  1  $25.00  $25.00",
+    "Shipping  $16.07"
+   ]
   }
  ],
- "updated": "2026-11-11T15:27:54"
+ "updated": "2026-11-12T10:14:38"
 }
