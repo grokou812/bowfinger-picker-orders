@@ -2482,50 +2482,6 @@
    ]
   },
   {
-   "invoice": "SS-561544004",
-   "customer": "Christian Schulthess",
-   "date": "11/12/2026",
-   "added": "2026-11-12T14:02:47",
-   "source": "SS-561544004.pdf",
-   "items": [
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "40KITR",
-     "desc": "40mm scope, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4015",
-     "desc": "40mm .015 pin",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "6002R-BLACK",
-     "desc": "Right-hand One sight V2",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "365GH40MM33X",
-     "desc": "40MM (",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping: $103.99",
-    "Amount Received: $985.74",
-    "Balance Due: $0.00"
-   ]
-  },
-  {
    "invoice": "1360340",
    "customer": "KINSEY'S",
    "date": "11/13/2026",
@@ -2564,7 +2520,51 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544004",
+   "customer": "Christian Schulthess",
+   "date": "11/12/2026",
+   "added": "2026-11-13T12:01:08",
+   "source": "SS-561544004.pdf",
+   "items": [
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH40MM3X",
+     "desc": "3X 40mm XFocus lens for 20/20 scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $103.99",
+    "Amount Received: $985.74",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-13T11:18:17"
+ "updated": "2026-11-13T12:01:08"
 }
