@@ -2524,7 +2524,47 @@
     "Amount Received: $985.74",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "1360340",
+   "customer": "KINSEY'S",
+   "date": "11/13/2026",
+   "added": "2026-11-13T11:18:17",
+   "source": "1360340.pdf",
+   "items": [
+    {
+     "part": "4401BL",
+     "desc": "8 inch Ultimate stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4402BL",
+     "desc": "10 inch Ultimate stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4256",
+     "desc": "Barkbuster side mount with quick disconnect",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-12T14:02:47"
+ "updated": "2026-11-13T11:18:17"
 }
