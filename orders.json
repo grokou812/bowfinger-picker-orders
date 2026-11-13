@@ -2564,7 +2564,119 @@
     "Amount Received: $985.74",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "1360341",
+   "customer": "Farron & Joey",
+   "date": "11/13/2026",
+   "added": "2026-11-13T13:51:33",
+   "source": "1360341.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "4400BL",
+     "desc": "6 inch Ultimate stabilizer",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40KITL",
+     "desc": "40mm scope, left-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4714",
+     "desc": "14 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5040 WHITE",
+     "desc": "40mm scope caps and rings, White",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002-L-BLACK",
+     "desc": "Left-hand V2 sight",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "7003L",
+     "desc": "Left-hand H1 sight with scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "365GH40MM4X",
+     "desc": "4X 40mm XFocus lens for 20/20 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "365GH40MM6X",
+     "desc": "6X 40mm XFocus lens for 20/20 scope",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-13T12:01:08"
+ "updated": "2026-11-13T13:51:33"
 }
