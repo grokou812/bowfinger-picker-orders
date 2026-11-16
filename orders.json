@@ -2676,7 +2676,27 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544005",
+   "customer": "Mark Kahler",
+   "date": "11/14/2026",
+   "added": "2026-11-16T13:37:58",
+   "source": "SS-561544005.pdf",
+   "items": [
+    {
+     "part": "4267",
+     "desc": "Rear V-bar mount",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $139.90",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-13T13:51:33"
+ "updated": "2026-11-16T13:37:58"
 }
