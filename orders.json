@@ -2722,7 +2722,33 @@
     "Amount Received: $112.27",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544007",
+   "customer": "jordan garcia",
+   "date": "11/15/2026",
+   "added": "2026-11-16T13:38:36",
+   "source": "SS-561544007.pdf",
+   "items": [
+    {
+     "part": "6030",
+     "desc": "Clamp knob",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6010",
+     "desc": "Pin lock clamp and scope barrel",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $61.85",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-16T13:38:14"
+ "updated": "2026-11-16T13:38:36"
 }
