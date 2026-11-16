@@ -2719,11 +2719,45 @@
    ]
   },
   {
+   "invoice": "1360343",
+   "customer": "Sofiane Duhez",
+   "date": "11/16/2026",
+   "added": "2026-11-16T14:44:30",
+   "source": "1360343.pdf",
+   "items": [
+    {
+     "part": "30CT6X",
+     "desc": "30mm Doc's Choice Clear Target lens, 6X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": []
+  },
+  {
    "invoice": "1360341",
    "customer": "Farron & Joey",
    "date": "11/13/2026",
-   "added": "2026-11-16T14:37:52",
-   "source": "1360341-v2.pdf",
+   "added": "2026-11-16T14:50:36",
+   "source": "1360341-v3.pdf",
    "items": [
     {
      "part": "4201",
@@ -2818,7 +2852,7 @@
     {
      "part": "5040 WHITE",
      "desc": "40mm scope caps and rings, White",
-     "qty": 2,
+     "qty": 3,
      "check": false
     },
     {
@@ -2846,6 +2880,12 @@
      "check": false
     },
     {
+     "part": "7003R",
+     "desc": "Right-hand H1 sight with scope",
+     "qty": 1,
+     "check": false
+    },
+    {
      "part": "365GH40MM4X",
      "desc": "4X 40mm XFocus lens for 20/20 scope",
      "qty": 1,
@@ -2859,41 +2899,7 @@
     }
    ],
    "unmatched": []
-  },
-  {
-   "invoice": "1360343",
-   "customer": "Sofiane Duhez",
-   "date": "11/16/2026",
-   "added": "2026-11-16T14:44:30",
-   "source": "1360343.pdf",
-   "items": [
-    {
-     "part": "30CT6X",
-     "desc": "30mm Doc's Choice Clear Target lens, 6X",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "30KITR",
-     "desc": "2020 30mm scope kit, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "6002R-BLACK",
-     "desc": "Right-hand One sight V2",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": []
   }
  ],
- "updated": "2026-11-16T14:44:30"
+ "updated": "2026-11-16T14:50:36"
 }
