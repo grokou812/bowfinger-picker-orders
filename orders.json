@@ -2899,7 +2899,53 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "1360342",
+   "customer": "Afterlife Taxidermy and Pro-Shop",
+   "date": "11/16/2026",
+   "added": "2026-11-16T16:19:55",
+   "source": "1360342.pdf",
+   "items": [
+    {
+     "part": "30CT4X",
+     "desc": "30mm Doc's Choice Clear Target lens, 4X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30CT6X",
+     "desc": "30mm Doc's Choice Clear Target lens, 6X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3015",
+     "desc": "30mm .015 pin",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-16T14:50:36"
+ "updated": "2026-11-16T16:19:55"
 }
