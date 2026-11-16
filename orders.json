@@ -2748,7 +2748,88 @@
     "Amount Received: $61.85",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544008",
+   "customer": "Brandon Kirby",
+   "date": "11/15/2026",
+   "added": "2026-11-16T13:39:41",
+   "source": "SS-561544008.pdf",
+   "items": [
+    {
+     "part": "4362",
+     "desc": "FAX 10\" stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4364",
+     "desc": "FAX 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4365",
+     "desc": "FAX 26\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Amount Received: $219.00",
+    "Balance Due: $0.00"
+   ]
+  },
+  {
+   "invoice": "SS-561544009",
+   "customer": "Scotty Segura",
+   "date": "11/16/2026",
+   "added": "2026-11-16T13:39:41",
+   "source": "SS-561544009.pdf",
+   "items": [
+    {
+     "part": "40LS",
+     "desc": "40mm long shade",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "40H19",
+     "desc": "H hunting scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5140 ORANGE",
+     "desc": "40mm peep insert, Orange",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5140 WHITE",
+     "desc": "40mm peep insert, White",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6030",
+     "desc": "Clamp knob",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6011",
+     "desc": "Pin lock clamp only",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $156.65",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-16T13:38:36"
+ "updated": "2026-11-16T13:39:41"
 }
