@@ -2859,7 +2859,41 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "1360343",
+   "customer": "Sofiane Duhez",
+   "date": "11/16/2026",
+   "added": "2026-11-16T14:44:30",
+   "source": "1360343.pdf",
+   "items": [
+    {
+     "part": "30CT6X",
+     "desc": "30mm Doc's Choice Clear Target lens, 6X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-16T14:37:52"
+ "updated": "2026-11-16T14:44:30"
 }
