@@ -3044,7 +3044,26 @@
     "1.  4167  5.1.2  MEDUSA MAX PRO DROP AWAY  2  $111.00  $222.00",
     "Shipping  $6.40"
    ]
+  },
+  {
+   "invoice": "1360346",
+   "customer": "laney h bisbee",
+   "date": "11/17/2026",
+   "added": "2026-11-17T17:14:23",
+   "source": "1360346.pdf",
+   "items": [
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$105.99",
+    "Shipping  $14.00"
+   ]
   }
  ],
- "updated": "2026-11-17T16:28:47"
+ "updated": "2026-11-17T17:14:23"
 }
