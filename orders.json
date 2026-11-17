@@ -3025,7 +3025,26 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "1360345",
+   "customer": "MUSIC CITY ARCHERY",
+   "date": "11/17/2026",
+   "added": "2026-11-17T16:28:47",
+   "source": "1360345.pdf",
+   "items": [
+    {
+     "part": "4166",
+     "desc": "Medusa Max Pro Arrow Rest",
+     "qty": 2,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "1.  4167  5.1.2  MEDUSA MAX PRO DROP AWAY  2  $111.00  $222.00",
+    "Shipping  $6.40"
+   ]
   }
  ],
- "updated": "2026-11-17T15:44:09"
+ "updated": "2026-11-17T16:28:47"
 }
