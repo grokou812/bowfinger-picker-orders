@@ -2967,7 +2967,65 @@
     "Discount 20%  -$23.19",
     "Shipping  $15.00"
    ]
+  },
+  {
+   "invoice": "SS-561544012",
+   "customer": "HOOSIER ARCHERY",
+   "date": "11/17/2026",
+   "added": "2026-11-17T15:44:09",
+   "source": "SS-561544012.pdf",
+   "items": [
+    {
+     "part": "4166",
+     "desc": "Medusa Max Pro Arrow Rest",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4267",
+     "desc": "Rear V-bar mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4714",
+     "desc": "14 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4350",
+     "desc": "XCH 10\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-17T14:39:18"
+ "updated": "2026-11-17T15:44:09"
 }
