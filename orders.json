@@ -3063,7 +3063,31 @@
     "Discount 20%  -$105.99",
     "Shipping  $14.00"
    ]
+  },
+  {
+   "invoice": "1360347",
+   "customer": "MUSIC CITY ARCHERY",
+   "date": "11/18/2026",
+   "added": "2026-11-18T11:53:30",
+   "source": "1360347.pdf",
+   "items": [
+    {
+     "part": "4351",
+     "desc": "XCH 12\" stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4354",
+     "desc": "XCH 28\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $6.40"
+   ]
   }
  ],
- "updated": "2026-11-17T17:14:23"
+ "updated": "2026-11-18T11:53:30"
 }
