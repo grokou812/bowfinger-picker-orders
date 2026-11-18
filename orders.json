@@ -3138,7 +3138,27 @@
     "Discount 20%  -$65.55",
     "Shipping  $15.00"
    ]
+  },
+  {
+   "invoice": "SS-561544013",
+   "customer": "Paul Nurkala",
+   "date": "11/18/2026",
+   "added": "2026-11-18T15:28:08",
+   "source": "SS-561544013.pdf",
+   "items": [
+    {
+     "part": "5140 WHITE",
+     "desc": "40mm peep insert, White",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $24.90",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-18T15:11:07"
+ "updated": "2026-11-18T15:28:08"
 }
