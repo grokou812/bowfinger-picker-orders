@@ -3095,7 +3095,50 @@
    "unmatched": [
     "Shipping  $33.26"
    ]
+  },
+  {
+   "invoice": "1360348",
+   "customer": "andy mason",
+   "date": "11/18/2026",
+   "added": "2026-11-18T15:11:07",
+   "source": "1360348.pdf",
+   "items": [
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4269",
+     "desc": "Locking leg",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Discount 20%  -$65.55",
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-11-18T14:08:07"
+ "updated": "2026-11-18T15:11:07"
 }
