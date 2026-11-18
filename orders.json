@@ -3158,7 +3158,69 @@
     "Amount Received: $24.90",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561543939",
+   "customer": "Jorge Aparicio",
+   "date": "10/09/2026",
+   "added": "2026-11-18T15:48:20",
+   "source": "SS-561543939.pdf",
+   "items": [
+    {
+     "part": "40CT6X",
+     "desc": "40mm Doc's Choice Clear Target lens, 6X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "30CT6X",
+     "desc": "30mm Doc's Choice Clear Target lens, 6X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3015",
+     "desc": "30mm .015 pin",
+     "qty": 1,
+     "check": true
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 1,
+     "check": true
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 2,
+     "check": true
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": true
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 1,
+     "check": true
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": true
+    }
+   ],
+   "unmatched": [
+    "1.  HAT 3  MEDIA ROOM  HAT - OLIVE/BLACK - PATCH TRUCKER  1  $0.00",
+    "2.  SHIRT 5  MEDIA ROOM  T-SHIRT -green - MEDIUM  1  $0.00",
+    "Shipping  $55.00"
+   ]
   }
  ],
- "updated": "2026-11-18T15:28:08"
+ "updated": "2026-11-18T15:48:20"
 }
