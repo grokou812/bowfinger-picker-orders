@@ -3043,60 +3043,6 @@
    ]
   },
   {
-   "invoice": "1360342",
-   "customer": "Afterlife Taxidermy and Pro-Shop",
-   "date": "11/16/2026",
-   "added": "2026-11-18T14:08:07",
-   "source": "1360342-v2.pdf",
-   "items": [
-    {
-     "part": "30CT4X",
-     "desc": "30mm Doc's Choice Clear Target lens, 4X",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "30CT6X",
-     "desc": "30mm Doc's Choice Clear Target lens, 6X",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "3015",
-     "desc": "30mm .015 pin",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "30KITR",
-     "desc": "2020 30mm scope kit, right-hand",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 2,
-     "check": false
-    },
-    {
-     "part": "6002-L-BLACK",
-     "desc": "Left-hand V2 sight",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "6002R-BLACK",
-     "desc": "Right-hand One sight V2",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": [
-    "Shipping  $33.26"
-   ]
-  },
-  {
    "invoice": "1360348",
    "customer": "andy mason",
    "date": "11/18/2026",
@@ -3234,7 +3180,55 @@
     "Payment  -$59.00",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "1360342",
+   "customer": "Afterlife Taxidermy and Pro-Shop",
+   "date": "11/16/2026",
+   "added": "2026-11-19T12:58:40",
+   "source": "1360342-v3.pdf",
+   "items": [
+    {
+     "part": "30CT4X",
+     "desc": "30mm Doc's Choice Clear Target lens, 4X",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3015",
+     "desc": "30mm .015 pin",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "30KITR",
+     "desc": "2020 30mm scope kit, right-hand",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "6002-L-BLACK",
+     "desc": "Left-hand V2 sight",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $33.26"
+   ]
   }
  ],
- "updated": "2026-11-19T11:43:15"
+ "updated": "2026-11-19T12:58:40"
 }
