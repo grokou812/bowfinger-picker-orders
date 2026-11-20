@@ -3477,7 +3477,133 @@
     "Payment  -$716.80",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544018",
+   "customer": "LANCASTER ARCHERY SUPPLY",
+   "date": "11/20/2026",
+   "added": "2026-11-20T11:36:11",
+   "source": "SS-561544018.pdf",
+   "items": [
+    {
+     "part": "3510",
+     "desc": ".010 pin for 2020 scope",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "3515",
+     "desc": ".015 pin for 2020 scope",
+     "qty": 6,
+     "check": false
+    },
+    {
+     "part": "35LB",
+     "desc": "35mm scope lens base",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "35THKLB",
+     "desc": "Thick lens base for 35mm scope",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "30RO",
+     "desc": "30mm redout filter kit",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4277",
+     "desc": "3 oz tungsten weight",
+     "qty": 12,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 8,
+     "check": false
+    },
+    {
+     "part": "4010",
+     "desc": "40mm .010 pin",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4019",
+     "desc": "40mm .019 pin",
+     "qty": 8,
+     "check": false
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 8,
+     "check": false
+    },
+    {
+     "part": "40SS",
+     "desc": "40mm short shade",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "40LB",
+     "desc": "40mm lens base",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4280",
+     "desc": "Triad mount",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "5035 SILVER",
+     "desc": "35mm scope caps and rings, Silver",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5030 BLACK",
+     "desc": "30mm scope caps and rings, Black",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "5140 WHITE",
+     "desc": "40mm peep insert, White",
+     "qty": 4,
+     "check": false
+    },
+    {
+     "part": "4350",
+     "desc": "XCH 10\" stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4354",
+     "desc": "XCH 28\" stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4355",
+     "desc": "XCH 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "4277: invoice ships 12 of 24 ordered - remainder discontinued, will not ship"
+   ]
   }
  ],
- "updated": "2026-11-20T11:25:42"
+ "updated": "2026-11-20T11:36:11"
 }
