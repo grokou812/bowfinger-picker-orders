@@ -3328,7 +3328,33 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544017",
+   "customer": "ray veuleman",
+   "date": "11/20/2026",
+   "added": "2026-11-20T10:57:49",
+   "source": "SS-561544017.pdf",
+   "items": [
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "7002R",
+     "desc": "Right-hand H1 sight no scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "2.  HAT 6  MEDIA ROOM  BLACKED OUT - TRUCKER STYLE  1  $20.00  $20.00",
+    "Discount 50%  -$519.95",
+    "Shipping  $15.00"
+   ]
   }
  ],
- "updated": "2026-11-20T10:20:02"
+ "updated": "2026-11-20T10:57:49"
 }
