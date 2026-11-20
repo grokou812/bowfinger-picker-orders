@@ -3230,106 +3230,6 @@
    ]
   },
   {
-   "invoice": "SS-561544016",
-   "customer": "Starz Bowstrings and outdoor llc",
-   "date": "11/20/2026",
-   "added": "2026-11-20T10:20:02",
-   "source": "SS-561544016.pdf",
-   "items": [
-    {
-     "part": "4166",
-     "desc": "Medusa Max Pro Arrow Rest",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "35KITR",
-     "desc": "2020 35mm scope, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "3510",
-     "desc": ".010 pin for 2020 scope",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "3515",
-     "desc": ".015 pin for 2020 scope",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "3519",
-     "desc": ".019 pin for 2020 scope",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "3529",
-     "desc": ".029 pin for 2020 scope",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4261",
-     "desc": "Front mount, 0 degree",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "TKIT",
-     "desc": "Tube kit",
-     "qty": 7,
-     "check": false
-    },
-    {
-     "part": "40KITR",
-     "desc": "40mm scope, right-hand",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4010",
-     "desc": "40mm .010 pin",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4019",
-     "desc": "40mm .019 pin",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4015",
-     "desc": "40mm .015 pin",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4029",
-     "desc": "40mm .029 pin",
-     "qty": 3,
-     "check": false
-    },
-    {
-     "part": "4165",
-     "desc": "Stainless blade for Arrow Rest",
-     "qty": 1,
-     "check": false
-    },
-    {
-     "part": "4610",
-     "desc": "Mod King SD 10\" stabilizer",
-     "qty": 1,
-     "check": false
-    }
-   ],
-   "unmatched": []
-  },
-  {
    "invoice": "SS-561544017",
    "customer": "ray veuleman",
    "date": "11/20/2026",
@@ -3478,7 +3378,106 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544016",
+   "customer": "Starz Bowstrings and outdoor llc",
+   "date": "11/20/2026",
+   "added": "2026-11-20T11:25:42",
+   "source": "SS-561544016-v2.pdf",
+   "items": [
+    {
+     "part": "4166",
+     "desc": "Medusa Max Pro Arrow Rest",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "35KITR",
+     "desc": "2020 35mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3510",
+     "desc": ".010 pin for 2020 scope",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "3515",
+     "desc": ".015 pin for 2020 scope",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "TKIT",
+     "desc": "Tube kit",
+     "qty": 7,
+     "check": false
+    },
+    {
+     "part": "40KITR",
+     "desc": "40mm scope, right-hand",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4010",
+     "desc": "40mm .010 pin",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4019",
+     "desc": "40mm .019 pin",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4015",
+     "desc": "40mm .015 pin",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4029",
+     "desc": "40mm .029 pin",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4165",
+     "desc": "Stainless blade for Arrow Rest",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4610",
+     "desc": "Mod King SD 10\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "4261 ULTIMATE FRONT SIDE BAR MOUNT - qty 0, 3 ON BACK ORDER - do not pick",
+    "Shipping  $25.00",
+    "Payment  -$716.80",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-11-20T11:20:33"
+ "updated": "2026-11-20T11:25:42"
 }
