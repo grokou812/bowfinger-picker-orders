@@ -3603,7 +3603,77 @@
    "unmatched": [
     "4277: invoice ships 12 of 24 ordered - remainder discontinued, will not ship"
    ]
+  },
+  {
+   "invoice": "SS-561544019",
+   "customer": "Twisted Vane Archery",
+   "date": "11/20/2026",
+   "added": "2026-11-20T13:52:14",
+   "source": "SS-561544019.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "4202",
+     "desc": "Ultimate quick disconnect, 10 degree",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "4708",
+     "desc": "8 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 3,
+     "check": false
+    },
+    {
+     "part": "4714",
+     "desc": "14 inch XL stabilizer",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4270",
+     "desc": "10 oz stack weight, silver",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4610",
+     "desc": "Mod King SD 10\" stabilizer",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4615",
+     "desc": "Mod King SD 15\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-20T11:36:11"
+ "updated": "2026-11-20T13:52:14"
 }
