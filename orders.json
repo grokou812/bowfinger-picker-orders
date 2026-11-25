@@ -3705,7 +3705,27 @@
     "Amount Received: $31.80",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544025",
+   "customer": "Justin D Marinkov",
+   "date": "11/25/2026",
+   "added": "2026-11-25T10:21:56",
+   "source": "SS-561544025.pdf",
+   "items": [
+    {
+     "part": "6200RH",
+     "desc": "Quiver spacer, right-hand",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $58.90",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-25T10:21:15"
+ "updated": "2026-11-25T10:21:56"
 }
