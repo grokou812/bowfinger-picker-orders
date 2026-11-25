@@ -3673,7 +3673,39 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544026",
+   "customer": "Edu Rendon Daitemi Morejon",
+   "date": "11/25/2026",
+   "added": "2026-11-25T10:21:15",
+   "source": "SS-561544026.pdf",
+   "items": [
+    {
+     "part": "8B LEVEL",
+     "desc": "Level for 30mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "8G LEVEL",
+     "desc": "Level for 30mm scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "8R LEVEL",
+     "desc": "Level for 30mm scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $31.80",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-20T13:52:14"
+ "updated": "2026-11-25T10:21:15"
 }
