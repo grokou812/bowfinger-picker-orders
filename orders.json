@@ -3825,7 +3825,27 @@
     }
    ],
    "unmatched": []
+  },
+  {
+   "invoice": "SS-561544028",
+   "customer": "Starz Bowstrings and outdoor llc",
+   "date": "11/25/2026",
+   "added": "2026-11-25T15:25:09",
+   "source": "SS-561544028.pdf",
+   "items": [
+    {
+     "part": "4261",
+     "desc": "Front mount, 0 degree",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping  $7.00",
+    "Payment  -$76.60",
+    "Balance due  $0.00"
+   ]
   }
  ],
- "updated": "2026-11-25T14:47:31"
+ "updated": "2026-11-25T15:25:09"
 }
