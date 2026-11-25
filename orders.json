@@ -3791,7 +3791,41 @@
     "Amount Received: $24.90",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544027",
+   "customer": "MATT EDDIE",
+   "date": "11/25/2026",
+   "added": "2026-11-25T14:47:31",
+   "source": "SS-561544027.pdf",
+   "items": [
+    {
+     "part": "4710",
+     "desc": "10 inch XL stabilizer",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "4712",
+     "desc": "12 inch XL stabilizer",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "6003",
+     "desc": "Offset bar for One sight",
+     "qty": 5,
+     "check": false
+    },
+    {
+     "part": "6002R-BLACK",
+     "desc": "Right-hand One sight V2",
+     "qty": 6,
+     "check": false
+    }
+   ],
+   "unmatched": []
   }
  ],
- "updated": "2026-11-25T10:22:42"
+ "updated": "2026-11-25T14:47:31"
 }
