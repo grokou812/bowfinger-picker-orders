@@ -3845,7 +3845,38 @@
     "Payment  -$76.60",
     "Balance due  $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544029",
+   "customer": "Brandon Kirby",
+   "date": "11/25/2026",
+   "added": "2026-11-27T11:03:15",
+   "source": "SS-561544029.pdf",
+   "items": [
+    {
+     "part": "4201",
+     "desc": "Ultimate quick disconnect, 0 degree",
+     "qty": 2,
+     "check": false
+    },
+    {
+     "part": "4262",
+     "desc": "Rear mount",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "4366",
+     "desc": "FAX 28\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Amount Received: $242.85",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-25T15:25:09"
+ "updated": "2026-11-27T11:03:15"
 }
