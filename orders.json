@@ -3876,7 +3876,27 @@
     "Amount Received: $242.85",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544030",
+   "customer": "david rife",
+   "date": "11/25/2026",
+   "added": "2026-11-27T11:38:38",
+   "source": "SS-561544030.pdf",
+   "items": [
+    {
+     "part": "RR40",
+     "desc": "40mm reducer ring",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $38.90",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-27T11:03:15"
+ "updated": "2026-11-27T11:38:38"
 }
