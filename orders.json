@@ -3987,7 +3987,27 @@
     "Amount Received: $45.85",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544035",
+   "customer": "Hunter Campbell",
+   "date": "11/27/2026",
+   "added": "2026-11-27T14:29:29",
+   "source": "SS-561544035.pdf",
+   "items": [
+    {
+     "part": "4367",
+     "desc": "FAX 30\" stabilizer",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $97.95",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-27T13:15:43"
+ "updated": "2026-11-27T14:29:29"
 }
