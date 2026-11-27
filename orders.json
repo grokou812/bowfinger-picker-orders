@@ -3961,7 +3961,33 @@
     "Amount Received: $50.90",
     "Balance Due: $0.00"
    ]
+  },
+  {
+   "invoice": "SS-561544034",
+   "customer": "Josh Puckett",
+   "date": "11/27/2026",
+   "added": "2026-11-27T13:15:43",
+   "source": "SS-561544034.pdf",
+   "items": [
+    {
+     "part": "3519",
+     "desc": ".019 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    },
+    {
+     "part": "3529",
+     "desc": ".029 pin for 2020 scope",
+     "qty": 1,
+     "check": false
+    }
+   ],
+   "unmatched": [
+    "Shipping: $13.95",
+    "Amount Received: $45.85",
+    "Balance Due: $0.00"
+   ]
   }
  ],
- "updated": "2026-11-27T13:14:38"
+ "updated": "2026-11-27T13:15:43"
 }
